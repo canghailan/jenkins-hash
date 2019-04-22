@@ -1,7 +1,8 @@
 # Wang/Jenkins Hash算法
 
-[Wang/Jenkins Hash算法](http://d0evi1.com/wang-jenkins-hash/)
-[Inverse of a hash function](https://naml.us/post/inverse-of-a-hash-function/)
+参考资料：
+* [Wang/Jenkins Hash算法](http://d0evi1.com/wang-jenkins-hash/)
+* [Inverse of a hash function](https://naml.us/post/inverse-of-a-hash-function/)
 
 
 ```c
